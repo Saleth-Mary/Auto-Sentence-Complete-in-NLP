@@ -1,4 +1,4 @@
-# Auto-Sentence-Complete-for-Blog-Writters-and-Content-Writters
+# Auto-Sentence-Complete-for-Blog-Writers-and-Content-Writers
 Auto Sentence Complete in Natural Language Processing Using Python
 # Overview
 Auto Sentence Completion for Blog Writers is a specialized project crafted to assist and streamline the creative process for blog authors. Leveraging advanced Natural Language Processing (NLP) techniques, this tool intelligently suggests sentence completions based on user input, providing valuable assistance to blog writers looking for inspiration or enhancing their writing flow. The project utilizes cutting-edge pre-trained language models and is implemented in Python with key NLP libraries.
